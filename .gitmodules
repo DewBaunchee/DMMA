@@ -1,0 +1,21 @@
+[submodule "AutomaticGeneration"]
+	path = AutomaticGeneration
+	url = https://github.com/DewBaunchee/AutomaticGeneration
+[submodule "AverageK"]
+	path = AverageK
+	url = https://github.com/DewBaunchee/AverageK
+[submodule "HierarchicalGrouping"]
+	path = HierarchicalGrouping
+	url = https://github.com/DewBaunchee/HierarchicalGrouping
+[submodule "Perceptron"]
+	path = Perceptron
+	url = https://github.com/DewBaunchee/Perceptron
+[submodule "PotentialMethod"]
+	path = PotentialMethod
+	url = https://github.com/DewBaunchee/PotentialMethod
+[submodule "ProbabilisticDistribution"]
+	path = ProbabilisticDistribution
+	url = https://github.com/DewBaunchee/ProbabilisticDistribution
+[submodule "SyntaxMethod"]
+	path = SyntaxMethod
+	url = https://github.com/DewBaunchee/SyntaxMethod
